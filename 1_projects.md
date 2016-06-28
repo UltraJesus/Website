@@ -3,9 +3,6 @@ layout: page2
 title: Projects
 permalink: /projects/
 ---
-
-<div class="projects">
-
   <style>
     h3 {display: inline;}
   </style>
@@ -69,8 +66,7 @@ permalink: /projects/
   <h3>Quantic Cheese</h3>
   <span class="post-meta">Sept 2012 - Dec 2012</span><br />
   <span class="post-meta">Gameplay Programmer</span><br />
-  ![My helpful screenshot]({{ site.url }}/assets/cheese.PNG)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WIx47efS0r4" frameborder="0" allowfullscreen></iframe><br />
+  ![Quantic Cheese]({{ site.url }}/assets/cheese.PNG)
   <font size="2">
     Quantic Cheese is a puzzle game where the player manipulates the direction of gravity through the use of gems<br />
     <ul style="list-style-type:disc">
@@ -79,5 +75,4 @@ permalink: /projects/
       <li>Designed puzzles</li>
     </ul>
   </font>
-</div>
 
