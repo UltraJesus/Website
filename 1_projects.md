@@ -17,8 +17,7 @@ permalink: /projects/
     Project Battleblitz is a Diablo-like single player co-op where the player progresses through floors to obtain better stats. Choose to work together or fight against your friends.<br />
     <ul style="list-style-type:disc">
       <li>Unreal Engine 4 using C++ and Blueprints</li>
-      <li>did thing #2</li>
-      <li>did thing #3</li>
+      <li>Designed and implemented 3 A.I. behaviours using blackboard, C++, and Blueprints</li>
     </ul>
   </font>
   <br />
@@ -31,8 +30,10 @@ permalink: /projects/
     The Cavern is a poetic experience where you discover what has happened inside The Cavern. Find various clues and avoid mysterious entities within the cavern.<br />
     <ul style="list-style-type:disc">
       <li>Custom 3D Engine using C++</li>
-      <li>did thing #2</li>
-      <li>did thing #3</li>
+      <li>Managed the tech team on upcomming tasks and provided insight whenever needed</li>
+      <li>Implemented the core system features; object factory, object serailization, system messaging, component system</li>
+      <li>Implemented the UI system for menus and HUD</li>
+      <li>Designed and implemented boss A.I.</li>
     </ul>
   </font>
   <br />
@@ -45,8 +46,9 @@ permalink: /projects/
     Rocket Jumper is a challenging platformer where the user cannot jump, but instead propel yourself with the use of a rocket. The player must avoid various hazards and use the enviroment to platform around.<br />
     <ul style="list-style-type:disc">
       <li>Custom 2D Engine using C++</li>
-      <li>did thing #2</li>
-      <li>did thing #3</li>
+      <li>Implemented tile based level system</li>
+      <li>Designed and implemented core gameplay</li>
+      <li>Designed 6 levels</li>
     </ul>
   </font>
   <br />
@@ -59,8 +61,7 @@ permalink: /projects/
     Shift is a 2D bullethell game with the twist where the direction of the game constantly changes with endless boss battles<br />
     <ul style="list-style-type:disc">
       <li>Custom 2D Engine using C</li>
-      <li>did thing #2</li>
-      <li>did thing #3</li>
+      <li>Designed and implemented multiple boss A.I</li>
     </ul>
   </font>
   <br />
@@ -68,13 +69,14 @@ permalink: /projects/
   <h3>Quantic Cheese</h3>
   <span class="post-meta">Sept 2012 - Dec 2012</span><br />
   <span class="post-meta">Gameplay Programmer</span><br />
+  ![My helpful screenshot]({{ site.url }}/assets/cheese.PNG)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WIx47efS0r4" frameborder="0" allowfullscreen></iframe><br />
   <font size="2">
     Quantic Cheese is a puzzle game where the player manipulates the direction of gravity through the use of gems<br />
     <ul style="list-style-type:disc">
       <li>DigiPen Proprietary Engine - ProjectFUN</li>
-      <li>did thing #2</li>
-      <li>did thing #3</li>
+      <li>Designed and implemented core gameplay</li>
+      <li>Designed puzzles</li>
     </ul>
   </font>
 </div>
