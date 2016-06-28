@@ -22,7 +22,7 @@ permalink: /projects/
   <h3>The Cavern</h3>
   <span class="post-meta">Sept 2013 - Apr 2014</span><br />
   <span class="post-meta">Technical Lead, Engine Programmer, Gameplay Programmer</span><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WIx47efS0r4" frameborder="0" allowfullscreen></iframe><br />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_MSMt3432WQ" frameborder="0" allowfullscreen></iframe><br />
   <font size="2">
     The Cavern is a poetic experience where you discover what has happened inside The Cavern. Find various clues and avoid mysterious entities within the cavern.<br />
     <ul style="list-style-type:disc">
@@ -38,7 +38,7 @@ permalink: /projects/
   <h3>Rocket Jumper</h3>
   <span class="post-meta">Sept 2013 - Dec 2013</span><br />
   <span class="post-meta">Gameplay Programmer</span><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WIx47efS0r4" frameborder="0" allowfullscreen></iframe><br />
+  ![Quantic Cheese]({{ site.url }}/assets/rocketjumper.PNG)
   <font size="2">
     Rocket Jumper is a challenging platformer where the user cannot jump, but instead propel yourself with the use of a rocket. The player must avoid various hazards and use the enviroment to platform around.<br />
     <ul style="list-style-type:disc">
@@ -53,7 +53,7 @@ permalink: /projects/
   <h3>Shift</h3>
   <span class="post-meta">Jan 2013 - Apr 2013</span><br />
   <span class="post-meta">Gameplay Programmer</span><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WIx47efS0r4" frameborder="0" allowfullscreen></iframe><br />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sfv_jiVKSFc" frameborder="0" allowfullscreen></iframe><br />
   <font size="2">
     Shift is a 2D bullethell game with the twist where the direction of the game constantly changes with endless boss battles<br />
     <ul style="list-style-type:disc">
@@ -75,4 +75,5 @@ permalink: /projects/
       <li>Designed puzzles</li>
     </ul>
   </font>
+
 
