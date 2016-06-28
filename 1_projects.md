@@ -9,7 +9,7 @@ permalink: /projects/
   <h3>Project Battleblitz</h3>
   <span class="post-meta">Jan 2016 - Apr 2016</span><br />
   <span class="post-meta">A.I. Programmer</span><br />
-  ![Quantic Cheese]({{ site.url }}/assets/battleblitz.png)
+  ![Quantic Cheese]({{ site.url }}/assets/battleblitz.PNG)
   <font size="2">
     Project Battleblitz is a Diablo-like single player co-op where the player progresses through floors to obtain better stats. Choose to work together or fight against your friends.<br />
     <ul style="list-style-type:disc">
