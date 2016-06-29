@@ -39,6 +39,7 @@ void Factory::Update(float dt)
 {% endhighlight %}
 
 This was sample code from my A.I. class where we had to implement vision in front of the player.
+Results shown below
 
 {% highlight cpp %}
 float AngleBetweenVec2(Vec2& vec1, Vec2& vec2)
@@ -84,3 +85,5 @@ void Terrain::AnalyzeSearch(void)
   }
 }
 {% endhighlight %}
+
+  ![AI Sight]({{ site.url }}/assets/visibleToPlayer.PNG)
