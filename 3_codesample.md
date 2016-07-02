@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Samples
+title: Code
 permalink: /codesample/
 ---
 
