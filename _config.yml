@@ -1,24 +1,47 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# Title: This appears on your metadata and is part of your title tag
+# ===========
 title: Ismail Obaid
-specialty: Gameplay Programmer
-email: ismail@iobaid.me
-description: > # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://iobaid.me" # the base hostname & protocol for your site
 
+# Description: This is part of your metatag, keep it under 150 characters for SEO
+# =========== 
+description: "Software Engineer"
+
+# Avatar path: The path to your avatar image
+# ===========
+avatar_path: "/assets/img/avatar.png"
+
+
+# Url: Your hosting url
+# Change this to your hosting url e.g. http://[your_name].github.io OR http://localhost:4000
+# ===========
+url: "http://iobaid.me"
+
+# Google Tag manager ID: Use Google Tag manager to easily manage your tracking scripts.  
+# Create a new container and add your container ID here
+# ==========
+tagManagerID: GTM-NJZ97F4 # Your tag manager container ID
+
+# Disqus settings: For comment support
+# ==========
+disqus_shortname: orangejekylltheme # Disqus shortname
+
+# Contact form post url - Where the form gets posted - Check out formspree.io for free form posts http://formspree.io/
+# ==========
+formpost: http://formspree.io/ismail@iobaid.me
+
+env: production # - Set 'development' or 'production'
+exclude: [node_modules/, .sass-cache/]
+
+# Adding gems
+gems: [jekyll-paginate]
+
+sass:
+ sass_dir: _sass
+ style: compressed
+
+paginate: 5
+paginate_path: "blog/:num"
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+permalink: pretty
