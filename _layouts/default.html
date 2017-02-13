@@ -15,15 +15,11 @@
     {% endif %}
     <body>
 	{% include svg.html %}
-
     {% include nav.html %}
-
     <div class="page-wrap">
     {{ content }}  
     </div>
-    
     {% include footer.html %}
-
     </body>
 {% if site.env == 'production' %}
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
