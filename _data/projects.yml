@@ -7,7 +7,7 @@
   title: The Cavern 
   client: Technical Lead, Engine Programmer, Gameplay Programmer
   url: http://iobaid.me
-  cover-img: assets/img/projects/proj2/cover.png
+  cover-img: assets/img/projects/proj1/cover.png
 - id: proj3
   title: Rocket Jumper 
   client: Gameplay Programmer
@@ -17,7 +17,7 @@
   title: Shift
   client: Gameplay Programmer
   url: http://iobaid.me
-  cover-img: assets/img/projects/proj2/cover.png
+  cover-img: assets/img/projects/proj1/cover.png
 - id: proj5
   title: Quantic Cheese
   client: Gameplay Programmer
