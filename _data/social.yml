@@ -11,6 +11,6 @@ footer:
 
 # Social sharing options
 share:
- - { name: facebook }
- - { name: google }
+# - { name: facebook }
+ #- { name: google }
  # - { name: twitter, via: '[twitter_username]' }

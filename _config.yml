@@ -19,7 +19,7 @@ url: "http://iobaid.me"
 # Google Tag manager ID: Use Google Tag manager to easily manage your tracking scripts.  
 # Create a new container and add your container ID here
 # ==========
-tagManagerID: GTM-PZNT26 # Your tag manager container ID
+tagManagerID: GTM-NJZ97F4 # Your tag manager container ID
 
 # Disqus settings: For comment support
 # ==========
@@ -27,7 +27,7 @@ disqus_shortname: orangejekylltheme # Disqus shortname
 
 # Contact form post url - Where the form gets posted - Check out formspree.io for free form posts http://formspree.io/
 # ==========
-formpost: ismail@iobaid.me
+formpost: http://formspree.io/ismail@iobaid.me
 
 env: production # - Set 'development' or 'production'
 exclude: [node_modules/, .sass-cache/]
