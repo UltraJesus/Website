@@ -2,7 +2,7 @@
   title: Project Battleblitz 
   client: A.I. Programmer
   url: 
-  cover-img: assets/img/projects/proj1/cover.png
+  cover-img: assets/battleblitz.PNG
 - id: proj2
   title: The Cavern 
   client: Technical Lead, Engine Programmer, Gameplay Programmer
@@ -12,7 +12,7 @@
   title: Rocket Jumper 
   client: Gameplay Programmer
   url: 
-  cover-img: assets/img/projects/proj1/cover.png
+  cover-img: assets/rocketjumper.PNG
 - id: proj4
   title: Shift
   client: Gameplay Programmer
@@ -22,4 +22,4 @@
   title: Quantic Cheese
   client: Gameplay Programmer
   url: 
-  cover-img: assets/img/projects/proj1/cover.png
+  cover-img: assets/cheese.PNG
