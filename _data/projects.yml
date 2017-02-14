@@ -7,7 +7,7 @@
   title: The Cavern 
   client: Technical Lead, Engine Programmer, Gameplay Programmer
   url: 
-  cover-img: assets/img/projects/proj1/cover.png
+  cover-img: assets/cavernpreview.PNG
 - id: proj3
   title: Rocket Jumper 
   client: Gameplay Programmer
@@ -17,7 +17,7 @@
   title: Shift
   client: Gameplay Programmer
   url: 
-  cover-img: assets/img/projects/proj1/cover.png
+  cover-img: assets/shiftpreview.PNG
 - id: proj5
   title: Quantic Cheese
   client: Gameplay Programmer
