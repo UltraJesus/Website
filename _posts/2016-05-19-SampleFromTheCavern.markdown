@@ -5,7 +5,7 @@ date:   2016-06-24 18:34:36 -0700
 categories: jekyll update
 ---
  This is sample code from one of my student project The Cavern. 
-The function is to go through the objects that were deleted last frame and delete them this frame while sending a message to anyone whose listening
+The function is to go through the objects that were marked for deletion last frame and delete them this frame while sending a message to anyone whose listening stating that this object does not exist anymore.
 
 {% highlight cpp %}
 void Factory::Update(float dt)
