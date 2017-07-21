@@ -1,7 +1,7 @@
 ---
 layout: codesamples
 title:  "Boggle Solver"
-date:   2016-06-24 18:34:36 -0700
+date:   2017-07-20 12:00:00 -0700
 categories: jekyll update
 ---
 
